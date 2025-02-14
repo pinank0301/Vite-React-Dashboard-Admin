@@ -6,7 +6,7 @@
 
 The Dynamic Dashboard Project is a cutting-edge web application that leverages the latest technologies to deliver a seamless and visually appealing user experience. This project is built with Tremor for dashboard, Vite for speedy development, React for a component-based architecture, and Tailwind for a utility-first CSS framework.
 
-Site Address : https://vite-dashboard-temp.netlify.app/
+Site Address : https://vite-react-dashboard-admin.vercel.app/
 
 ## Introduction
 
